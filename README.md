@@ -1,16 +1,17 @@
-## Hi there 👋
+# Salut, moi c'est Pierre-Alain 👋
 
-<!--
-**PierreAlainC/PierreAlainC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Web PHP / Symfony, en reconversion depuis 2022 après 14 ans dans la restauration haut de gamme (Palace Le Bristol, Paris).
 
-Here are some ideas to get you started:
+🔧 **Stack principale** : PHP, Symfony, Doctrine, MySQL/MariaDB, JavaScript, HTML5/CSS3, API REST, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Pau (64) — ouvert au télétravail et à l'hybride
+
+📫 [pierrea.cypres@gmail.com](mailto:pierrea.cypres@gmail.com) · [Portfolio](https://pierre-alaincypres.rf.gd/)
+
+---
+
+### Quelques projets
+- 🚀 [SpaceHub](https://github.com/PierreAlainC/SpaceHub) — application Symfony agrégeant plusieurs API publiques autour de l'espace (NASA, ISS, planètes)
+- 🎮 [Quizz-JS](https://github.com/PierreAlainC/Quizz-JS) — quiz interactif en JavaScript vanilla, consommant l'API OpenTriviaDB
+
+Toujours motivé à apprendre et à contribuer à des projets qui ont du sens.
